@@ -3,7 +3,7 @@ import Nav from './Nav.js';
 
 function Header() {
   return (
-    <div>
+    <div className="App-header">
         Welcome to the Time Blocker!
         <Nav />
     </div>
